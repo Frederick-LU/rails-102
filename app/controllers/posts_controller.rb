@@ -18,6 +18,7 @@ class PostsController < ApplicationController
     else
       render :new_group_path
     end
+    
 end
 
 private
